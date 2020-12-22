@@ -53,5 +53,5 @@ dkms.conf
 
 
 #JetBrains igonre
-/.idea/
-/cmake-build-debug/
+.idea/
+cmake-build-debug/
