@@ -1,0 +1,2 @@
+SELECT (fname + sname), id FROM aesr WHERE ((ID != 10 OR ID != 15) AND ID > 2);
+DELETE FROM esgrb WHERE ID > 4;
